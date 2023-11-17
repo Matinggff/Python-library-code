@@ -1,3 +1,4 @@
+# Play music
 import winsound
 from random import randint
 
